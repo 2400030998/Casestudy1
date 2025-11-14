@@ -1,22 +1,14 @@
-Doctor Appointment UI
+A simple Doctor Appointment Booking System built using React, Vite, Material UI, React Router, and Day.js.
+This project allows users to book appointments with doctors through a clean and responsive UI.
 
-## 🔗 Live Demo
-[Doctor Appointment App](https://2400030998.github.io/Casestudy1/)
+Live Demo
 
+https://2400030998.github.io/doctor-appointment/
 
----
-
-## 🛠️ Tech Stack
-- **React 19**
-- **Vite**
-- **Material UI (MUI)**
-- **React Router DOM**
-- **Day.js** for date handling
-
----
-
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/2400030998/Casestudy1.git
+Tech Stack
+React
+Vite
+React Router DOM
+Material UI (MUI)
+Day.js
+gh-pages (for deployment)
